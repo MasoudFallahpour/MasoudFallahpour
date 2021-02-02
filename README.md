@@ -8,5 +8,5 @@ I'm Masood. I'm a software engineer who likes Android development. I also like t
 
 <p align="left">
 <a href="https://www.linkedin.com/in/masood-fallahpoor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chrisbanes" height="30" width="40" /></a>
-<a href="https://medium.com/@masood.fallahpoor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="chrisbanes" height="30" width="40" /></a>
+<a href="https://masood-fallahpoor.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="chrisbanes" height="30" width="40" /></a>
 </p>
