@@ -6,7 +6,7 @@ Currently I'm reading about the following stuff:
 - Jetpack Compose
 - Android CI/CD
 - Ktor
-- Kotlin Multplatform Mobile (KMM)
+- Kotlin Multiplatform Mobile (KMM)
 
 [![Masood's github stats](https://github-readme-stats.vercel.app/api?username=MasoodFallahpoor&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
