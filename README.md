@@ -2,6 +2,12 @@
 
 I'm Masood. I'm a software engineer, interested in Android development. I also like to study about algorithms, data structures, and compilers.
 
+Currently I'm reading about the following stuff:
+- Jetpack Compose
+- Android CI/CD
+- Ktor
+- Kotlin Multplatform Mobile (KMM)
+
 [![Masood's github stats](https://github-readme-stats.vercel.app/api?username=MasoodFallahpoor&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
