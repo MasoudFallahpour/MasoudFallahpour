@@ -1,11 +1,9 @@
 ### Good to see you here! 👋
 
-I'm Masood. I'm a software engineer, interested in Android development. I also like to study about algorithms, data structures, and compilers.
+I'm Masood. I'm a software engineer, interested in Android development. When I have time, besides learning Android-related stuff, I like to read about algorithms, data structures, and compilers.
 
-Currently I'm reading about the following stuff:
+Currently, I'm experimenting with the following stuff:
 - Jetpack Compose
-- Android CI/CD
-- Ktor
 - Kotlin Multiplatform Mobile (KMM)
 
 [![Masood's github stats](https://github-readme-stats.vercel.app/api?username=MasoodFallahpoor&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
