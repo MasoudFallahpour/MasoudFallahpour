@@ -11,6 +11,6 @@ Currently, I'm experimenting with the following stuff:
 ### Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/masood-fallahpoor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chrisbanes" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/masoud-fallahpour" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chrisbanes" height="30" width="40" /></a>
 <a href="https://medium.com/@mfallahpour" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="chrisbanes" height="30" width="40" /></a>
 </p>
