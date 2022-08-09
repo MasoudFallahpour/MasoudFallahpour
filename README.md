@@ -1,6 +1,6 @@
 ### Good to see you here! 👋
 
-I'm Masood. I'm a software engineer, interested in Android development. When I have time, besides learning Android-related stuff, I like to read about algorithms, data structures, and compilers.
+I'm Masoud. I'm a software engineer, interested in Android development. When I have time, besides learning Android-related stuff, I like to read about algorithms, data structures, and compilers.
 
 Currently, I'm experimenting with the following stuff:
 - Jetpack Compose
