@@ -5,6 +5,8 @@ I'm Masoud. I'm a software engineer, interested in Android development. When I h
 Currently, I'm experimenting with the following stuff:
 - Jetpack Compose
 - Kotlin Multiplatform Mobile (KMM)
+- Swift
+- SwiftUI
 
 [![Masood's github stats](https://github-readme-stats.vercel.app/api?username=MasoudFallahpour&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
